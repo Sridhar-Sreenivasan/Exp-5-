@@ -1,3 +1,7 @@
+//Sridhar Sreenivasan
+//24070123113
+//B1
+
 #include <iostream>
 using namespace std;
 
@@ -13,10 +17,20 @@ int main()
     
     if(a>b)
         if (a>c)
-            cout << "a is largest no";
+            cout << "a is largest no.";
         else
-            cout << "c is largest no";
+            cout << "c is largest no.";
     else 
-        cout << "b is lasrgest no";
+        cout << "b is lasrgest no.";
     return 0;
 }
+
+/*
+OUTPUT
+Enter a : 9
+Enter b : 6
+Enter c : 8
+a is largest no
+*/
+
+
