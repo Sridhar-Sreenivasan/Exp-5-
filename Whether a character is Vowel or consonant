@@ -1,3 +1,7 @@
+//Sridhar Sreenivasan
+//24070123113
+//B1
+
 #include <iostream>
 using namespace std;
 
@@ -13,3 +17,9 @@ int main()
         
     return 0;
 }
+
+/*
+OUTPUT
+Enter x : E
+x is a vowel
+*/
