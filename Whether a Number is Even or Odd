@@ -1,3 +1,7 @@
+//Sridhar Sreenivasan
+//24070123113
+//B1
+
 #include <iostream>
 using namespace std;
 
@@ -11,3 +15,10 @@ int main() {
         cout << "a is odd";
     return 0;
 }
+
+/*
+OUTPUT
+Enter a : 78
+a is Even
+*/
+
