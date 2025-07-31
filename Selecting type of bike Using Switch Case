@@ -1,3 +1,7 @@
+//Sridhar Sreenivasan
+//24070123113
+//B1
+
 #include <iostream>
 using namespace std;
 
@@ -35,3 +39,15 @@ int main()
         
     }
 }
+
+/*
+OUTPUT
+1. Adv 
+2. Cruiser
+3. Cafe Racer
+4. Dirt Bikes
+5. Sports
+Enter your choice of bike : 1
+Adv
+Available Bikes : RE Himalayan 450 , BMW R1250 GS , Honda CRF1100 African Twin , Tirumph Tiger 850 
+*/
