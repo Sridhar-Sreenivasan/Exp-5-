@@ -1,0 +1,37 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int choice;
+    cout << "1. Adv \n" << "2. Cruiser\n" << "3. Cafe Racer\n" << "4. Dirt Bikes\n" << "5. Sports\n";
+    cout << "Enter your choice of bike : ";
+    cin >> choice ;
+    switch (choice)
+    {
+        case 1:
+        cout << "Adv\n";
+        cout << "Available Bikes : RE Himalayan 450 , BMW R1250 GS , Honda CRF1100 African Twin , Tirumph Tiger 850 ";
+        break;
+        case 2:
+        cout << "Cruiser\n";
+        cout << "Available Bikes : RE Meteor 350 , Harley-Davidson X440 , Jawa 42 FJ";
+        break;
+        case 3:
+        cout << "Cafe Racer\n";
+        cout << "Available Bikes : RE Continental GT , Tirumph Truxton";
+        break;
+        case 4:
+        cout << "Dirt Bikes\n";
+        cout << "Available Bikes : Kawasaki KLX110 , Suzuki RM-Z250";
+        break;
+        case 5:
+        cout << "Sports\n";
+        cout << "Available Bikes : Kawasaki Ninja ZX-10R , Yamaha YZF-R15";
+        break;
+        default:
+        cout <<"Wrong Output";
+        break;
+        
+    }
+}
